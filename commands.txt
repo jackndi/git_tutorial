@@ -9,3 +9,12 @@ git add <file_name>
 
 # create a commit/ create a snapshot of your work 
 git commit -m "the message of the commit"
+
+# create a brach 
+git branch <branch Name>
+
+# check the local branches 
+git branch
+
+# delete a branch 
+git branch -d <branch_name>
