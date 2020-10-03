@@ -1,0 +1,11 @@
+# Initialize git in the folder , git start tracking the files in the folder
+git init
+
+# check the status of the files 
+git status
+
+# add files for git to track
+git add <file_name>
+
+# create a commit/ create a snapshot of your work 
+git commit -m "the message of the commit"
