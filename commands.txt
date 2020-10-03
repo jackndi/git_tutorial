@@ -18,3 +18,19 @@ git branch
 
 # delete a branch 
 git branch -d <branch_name>
+
+# switch to a different branch
+git checkout <branch_name>
+
+# merge brach
+git merge <branch_name>
+
+# view commit hostory
+git log  # to quit press Q
+
+
+# roll back commits 
+git revert <commid_uuid>
+
+# push the commmand 
+git push 
