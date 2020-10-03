@@ -11,7 +11,7 @@ git add <file_name>
 git commit -m "the message of the commit"
 
 # create a brach 
-git branch <branch Name>
+git branch -b <branch Name>
 
 # check the local branches 
 git branch
